@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<iframe src="https://player.twitch.tv/?channel=brettgambit" frameborder="0" allowfullscreen="true" scrolling="no" height="340" width="625"></iframe><a href="https://www.twitch.tv/brettgambit?tt_content=text_link&tt_medium=live_embed" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Watch live video from BrettGambit on www.twitch.tv</a>
+<iframe src="https://player.twitch.tv/?channel=brettgambit" frameborder="0" allowfullscreen="true" scrolling="no" height="340" width="625"></iframe>
+
+
 
 ## a variety streamer 
 
