@@ -4,6 +4,10 @@ layout: default
 
 ## A variety streamer 
 
+<i class="fa fa-instagram fa-3x fa-pull-left fa-border"></i>
+<i class="fa fa-twitter fa-3x fa-pull-left fa-border"></i>
+<i class="fa fa-twitch fa-3x fa-pull-left fa-border"></i>
+
 ### Nice, clean, reading!
 
 Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
