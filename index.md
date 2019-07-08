@@ -6,11 +6,11 @@ layout: default
 
 ## a variety streamer 
 
-<a href="https://www.twitch.tv/brettgambit"><i class="fa fa-twitch fa-3x fa-pull-left fa-border"></i></a>
-
-<a href="https://www.instagram.com/brettgambit/"><i class="fa fa-instagram fa-3x fa-pull-left fa-border"></i>
-
-<a href="https://www.instagram.com/brettgambit/"><i class="fa fa-twitter fa-3x fa-pull-left fa-border"></i></a>
+<div>
+  <a href="https://www.twitch.tv/brettgambit"><i class="fa fa-twitch fa-3x fa-pull-left fa-border"></i></a>
+  <a href="https://www.instagram.com/brettgambit/"><i class="fa fa-instagram fa-3x fa-pull-left fa-border"></i>
+  <a href="https://www.instagram.com/brettgambit/"><i class="fa fa-twitter fa-3x fa-pull-left fa-border"></i></a>
+</div>
 
 ### Games and Characters
 
