@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<iframe src="https://player.twitch.tv/?channel=brettgambit" frameborder="0" allowfullscreen="true" scrolling="no" height="340" width="625"></iframe>
-
 ## a variety streamer 
 
 <a href="https://www.twitch.tv/brettgambit"><i class="fa fa-twitch fa-3x fa-pull-left fa-border"></i></a>
