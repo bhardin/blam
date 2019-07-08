@@ -1,6 +1,6 @@
 # Site settings
-title: brettgambit.com
-tag_text: The best variety streamer
+title: Variety Streamer
+tag_text: brettgambit.com
 description: BrettGambit is a Twitch variety streamer who creates characters around every game he plays. Come join the NEW FLESH.
 url: "http://127.0.0.1:4000"
 baseurl: ""
