@@ -16,3 +16,7 @@ BrettGambit streams a variety of games. For each game a unique character is crea
 
 * __Twitch Sings__ - Prisoner trapped in 1984. Can only escape by getting three-stars and ovations on songs.
 * __GTA V__ - Leo "Blaze" Hays - A "coked" up entrepreneur
+
+### Discord
+
+<iframe src="https://discordapp.com/widget?id=609575945283829777&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
