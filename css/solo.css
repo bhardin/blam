@@ -3,8 +3,8 @@
 
 html {
   font: 18px/1.6 'Open Sans', sans-serif;
+  background: #111;
 }
-
 
 @media (max-width: 325px) {
   html { font: 17px/1.6 'Open Sans', sans-serif; }
@@ -16,9 +16,9 @@ body {
 }
 
 @media (min-width: 30rem) {
-  body {
+  /* body {
     margin-top: 5rem;
-  }
+  } */
 }
 
 a {
@@ -32,7 +32,7 @@ a:hover, a:focus {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
-  color: #111;
+  color: #fff;
   text-rendering: optimizeLegibility;
   font-family: 'Open Sans', serif;
   line-height: 1.2
@@ -45,19 +45,22 @@ h1, h2, h3, h4, h5, h6 {
  }
 }
 
+.container {
+  margin: 0 auto;
+}
+
 h1 {
   font-family: 'Schoolbell', cursive;
   font-size: 2.5rem;
-  margin-bottom: 7rem;
+  /* margin-bottom: 7rem; */
   font-weight: 700;
-  margin-left: -2rem;
-  margin-right: -2rem;
+  margin: 0 auto;
 }
 
 @media (min-width: 30rem) {
   h1 {
     font-size: 4rem;
-    margin-bottom: 10rem;
+    /* margin-bottom: 10rem; */
   }
 }
 
@@ -66,20 +69,20 @@ h1 a {
 }
 
 h2 {
-  margin-top: 2rem;
+  /* margin-top: 2rem; */
   font-size: 1.75rem;
   font-weight: 500;
-  margin-bottom: 5rem;
-  color: #555;
+  /* margin-bottom: 5rem; */
+  color: #aaa;
   text-align: right;
   margin-right: -4rem;
 }
 
 @media (min-width: 30rem) {
   h2 {
-    margin-top: 2.5rem;
+    /* margin-top: 2.5rem; */
     font-size: 1.75rem;
-    margin-bottom: 8rem;
+    /* margin-bottom: 8rem; */
     margin-right: -4rem;
   }
 }
